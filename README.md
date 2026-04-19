@@ -86,6 +86,9 @@ The United States produces the largest volume of Netflix content, with India as 
 Growth analysis showed that while the U.S. remains dominant, countries like India, the UK, Canada, and Japan have shown steady growth over time.
 
 ---
+## Visualizations
+
+### Movies vs TV Shows
 
 
 
