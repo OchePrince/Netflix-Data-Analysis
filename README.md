@@ -89,22 +89,22 @@ Growth analysis showed that while the U.S. remains dominant, countries like Indi
 ## Visualizations
 
 ### Movies vs TV Shows
-![Movie Vs Tvshow](https://github.com/OchePrince/Netflix-Data-Analysis/blob/main/Movie%20Vs%20Tvshow.png)
+![Movie Vs Tvshow](https://github.com/OchePrince/Netflix-Data-Analysis/blob/main/images/Movie%20Vs%20Tvshow.png)
 
 ### Content Added Over Time
-![Number of Titles added](https://github.com/OchePrince/Netflix-Data-Analysis/blob/main/Number%20of%20Titles%20added.png)
+![Number of Titles added](https://github.com/OchePrince/Netflix-Data-Analysis/blob/main/images/Number%20of%20Titles%20added.png)
 
 ## Genre Distribution
-![Top 10 common genre](https://github.com/OchePrince/Netflix-Data-Analysis/blob/main/Top%2010%20common%20genre.png)
+![Top 10 common genre](https://github.com/OchePrince/Netflix-Data-Analysis/blob/main/images/Top%2010%20common%20genre.png)
 
 ### Movie Duration Trend
-![Duration Trend](https://github.com/OchePrince/Netflix-Data-Analysis/blob/main/Duration%20trend.png)
+![Duration Trend](https://github.com/OchePrince/Netflix-Data-Analysis/blob/main/images/Duration%20trend.png)
 
 ### Top Content-Producing Countries
-![Top 10 countries](https://github.com/OchePrince/Netflix-Data-Analysis/blob/main/Top%2010%20countries1.png)
+![Top 10 countries](https://github.com/OchePrince/Netflix-Data-Analysis/blob/main/images/Top%2010%20countries1.png)
 
 ### Growth of Top Countries on Netflix
-![Growth of Top Countries](https://github.com/OchePrince/Netflix-Data-Analysis/blob/main/Growth%20of%20Top%20Countries.png)
+![Growth of Top Countries](https://github.com/OchePrince/Netflix-Data-Analysis/blob/main/images/Growth%20of%20Top%20Countries.png)
 
 
 
